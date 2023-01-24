@@ -1,0 +1,18 @@
+def = function 
+
+from functions import square => nomme do arquivo/ noma funcao 
+
+self = ele mesmo, propria class
+    
+meotodo magico __init__ = metodo do python...automaticamente quando ele um valor no point ele eh chamado 
+
+
+A funcao eh apenas qualquer outra falor...Posso passar uma funcao como parametro 
+
+decorator fuction eh uma funcao que posso receber uma outra funcao e retornar um valor ou outra funcao por exemplo...posso executar essa 
+funcao em qualquer lugar dentro da funcao pai que eu recebi essa funcao filho como parametro
+
+Podemos usar como exemplo uma funcao que recebe outra funcao para verificar se  usuario esta logado no sistema 
+antes de dar continuaidade 
+
+modificar uma funcao sem necessariamente altera-la
