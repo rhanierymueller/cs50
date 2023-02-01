@@ -34,3 +34,12 @@ porta = tipo de servico 8080
 ADIONAR O NOVO APP HELLO dentro da pasta settings lecture3 (INSTALLED_APPS)
 
 views = o que usuario quer ver (vai ver)
+
+
+COMANDO PARA RODAR 
+
+python manage.py runserver
+
+
+pesquisar csrf_token => para que ninguem falsifique as solicitacoes 
+
